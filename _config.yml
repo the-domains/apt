@@ -1,0 +1,28 @@
+name: Apt
+favicon: null
+layout_spectrum: 0.6867933424655348
+typography_spectrum: 0.6409760462120175
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7450605111662298
+  lightness: 0.589791263686493
+  saturation: 0.3072860811371356
+  rhythmicContrast: 0.11919697490520775
+purpose: []
